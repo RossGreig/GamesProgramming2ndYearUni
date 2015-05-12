@@ -1,0 +1,5 @@
+C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\bin\PSM\Content\Text.spritefont
+C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\bin\PSM\IgnoreMe.dll
+C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\obj\PSM\SpaceInvadersContentHandler.csprojResolveAssemblyReference.cache
+C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\obj\PSM\IgnoreMe.dll

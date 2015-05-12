@@ -1,0 +1,66 @@
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\obj\x86\Debug\Clone.csprojResolveAssemblyReference.cache
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Clone.exe
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Clone.pdb
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Lidgren.Network.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\obj\x86\Debug\Clone.exe
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\obj\x86\Debug\Clone.pdb
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\BulletSprite.png
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\cross.png
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\earth.png
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\shuttle.png
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\stars.jpg
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\TempSprite.png
+c:\users\ian\documents\visual studio 2013\Projects\Clone\Clone\bin\Windows\Debug\Content\black.png
+J:\Clone\Clone\obj\x86\Debug\Clone.exe
+J:\Clone\Clone\obj\x86\Debug\Clone.pdb
+J:\Clone\Clone\bin\Windows\Debug\Content\black.png
+J:\Clone\Clone\bin\Windows\Debug\Content\BulletSprite.png
+J:\Clone\Clone\bin\Windows\Debug\Content\cross.png
+J:\Clone\Clone\bin\Windows\Debug\Content\earth.png
+J:\Clone\Clone\bin\Windows\Debug\Content\shuttle.png
+J:\Clone\Clone\bin\Windows\Debug\Content\stars.jpg
+J:\Clone\Clone\bin\Windows\Debug\Content\TempSprite.png
+J:\Clone\Clone\bin\Windows\Debug\Clone.exe
+J:\Clone\Clone\bin\Windows\Debug\Clone.pdb
+J:\Clone\Clone\bin\Windows\Debug\MonoGame.Framework.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.XAudio2.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D11.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.DXGI.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct2D1.dll
+J:\Clone\Clone\bin\Windows\Debug\Lidgren.Network.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.XInput.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.RawInput.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D9.dll
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.XAudio2.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D11.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.DXGI.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct2D1.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.XInput.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.RawInput.xml
+J:\Clone\Clone\bin\Windows\Debug\SharpDX.Direct3D9.xml
+J:\Clone\Clone\obj\x86\Debug\Clone.csprojResolveAssemblyReference.cache
+C:\Users\GE70\Desktop\SpaceInvaders\Clone\obj\x86\Debug\Clone.exe
+C:\Users\GE70\Desktop\SpaceInvaders\Clone\obj\x86\Debug\Clone.pdb

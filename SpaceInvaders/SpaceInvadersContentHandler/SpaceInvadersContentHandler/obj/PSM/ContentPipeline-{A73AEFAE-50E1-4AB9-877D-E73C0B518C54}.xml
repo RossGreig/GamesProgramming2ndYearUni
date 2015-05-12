@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{A73AEFAE-50E1-4AB9-877D-E73C0B518C54}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>PSM</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandlerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\obj\PSM\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\GE70\Desktop\SpaceInvaders\SpaceInvadersContentHandler\SpaceInvadersContentHandler\bin\PSM\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-03-12T10:39:56.648797+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
